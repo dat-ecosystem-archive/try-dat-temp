@@ -26,8 +26,8 @@ function view (state, emit) {
             While this does make us really sad, we feel it also offers us a lesson in the dangers of tying public infrastructure to enclosed markets and virtual currencies. Thanks for your patience as we work to resolve this.
           </p>
           <p>
-            You may be able to help us prevent this! To contribute to try-dat.com visit <a
-            href="https://github.com/datproject">TODO: what repo</a>.
+            You may be able to help us prevent this! To contribute to try-dat.com visit <a href="https://github.com/maxogden/get-dat">get-dat</a> and <a
+            href="https://github.com/maxogden/adventure-time">adventure-time</a>.
           </p>
         </section>
       </main>
