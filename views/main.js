@@ -20,7 +20,7 @@ function view (state, emit) {
             We were providing try-dat.com as a learning resource to the community. It was really nice way to get people working with Dat quickly.
           </p>
           <p>
-            Unfortunately, someone decided to take advantage of our servers to mine Bitcoin. They were stealing the limited resources of a not-for-profit company for private gain.
+            Unfortunately, someone decided to take advantage of our servers to mine Bitcoin. They were stealing the limited resources of a nonprofit company for private gain.
           </p>
           <p>
             While this does make us really sad, we feel it also offers us a lesson in the dangers of tying public infrastructure to enclosed markets and virtual currencies. Thanks for your patience as we work to resolve this.
